@@ -1,0 +1,30 @@
+{
+  "name": "example-next-js-dynamic-routing-with-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murajun1978/example-next-js-dynamic-routing-with-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murajun1978/example-next-js-dynamic-routing-with-typescript/issues"
+  },
+  "homepage": "https://github.com/murajun1978/example-next-js-dynamic-routing-with-typescript#readme",
+  "dependencies": {
+    "next": "^9.0.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.6",
+    "@types/react": "^16.8.23",
+    "typescript": "^3.5.3"
+  }
+}
