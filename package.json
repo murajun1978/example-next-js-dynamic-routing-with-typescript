@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/murajun1978/example-next-js-dynamic-routing-with-typescript#readme",
   "dependencies": {
-    "next": "^9.0.2",
+    "next": "^11.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
